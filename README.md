@@ -1,4 +1,4 @@
-<h1>Fully Responsive Web Design Project built by Huseyin Kaplan </h1> 
+<h1>Fully Responsive Web Design Project </h1> 
 Libraries and features that I use in this project
 
 ➯ Animate On Scroll Library </br>
