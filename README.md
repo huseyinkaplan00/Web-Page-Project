@@ -9,6 +9,6 @@ Libraries and features that I use in this project
 ➯ SwiperJS </br>
 ➯ Waypoints to trigger a function </br>
 
-🌍 Fully Responsive Web Design Project built with Html, Css, JS. <br> 
+🌍 Fully Responsive Web Design Project built by Huseyin Kaplan <br> 
 🌍 Live At : https://huseyinkaplan00.github.io/HuseyinKaplanWebProject/
 
