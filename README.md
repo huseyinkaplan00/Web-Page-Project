@@ -10,5 +10,5 @@ Libraries and features that I use in this project
 ➯ Waypoints to trigger a function </br>
 
 
-🌍 Live At : https://huseyinkaplan00.github.io/HuseyinKaplanWebProject/
+
 
